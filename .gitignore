@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+
+# Carpeta data en cualquier parte del proyecto
+**/data/
+
+# Cachés y descargas de Hugging Face
+**/.cache/
+**/cache/
+**/checkpoints/
+**/runs/
+
+# Archivos temporales
+*.tmp
+*.log
+*.pth
+*.pt
