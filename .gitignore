@@ -15,3 +15,5 @@
 *.log
 *.pth
 *.pt
+
+*.csv
